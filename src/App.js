@@ -11,7 +11,6 @@ function App() {
     <div>
       <Navbar />
       <Home />
-      <Stars />
       <About />
       <Skills />
       <Work />
